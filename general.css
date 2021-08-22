@@ -1,0 +1,14 @@
+
+main {
+  background: #fbfbf3;
+  margin: 0px;
+  color: #566787;
+  background: #f5f5f5;
+  font-family: 'Varela Round', sans-serif;
+}
+.center {
+  text-align: center;
+}
+.getborder {
+  border: 1px black solid;
+}
